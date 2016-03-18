@@ -76,9 +76,9 @@ cc<-clos(gr)
 init.time -proc.time()
 
 
-# Here we will implement the BFS algorithm to define the shortest path (in 
-# construction, meanwhile we implemented a test to assess if one nome is in the
-# adjacencies of source node)
+# Here we will implement the BFS algorithm to define the shortest path [in 
+# construction, meanwhile we implemented a test to assess if one node is in the
+# adjacencies of source node]
 
 short2<- function (m, ad, s, d){
     if (!is.list(ad))
