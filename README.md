@@ -1,4 +1,4 @@
-## Closeness Centrality of a Vertex
+## Closeness Centrality of a Graph
 
 The aim of this code is implement a simples algorithm to extract a metric called "closeness centrality" from a social network graph.
 
